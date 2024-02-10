@@ -1,0 +1,12 @@
+{\rtf1}
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore the logs directory
+logs/
+
+# Ignore the mails.txt file within the pythonProject directory
+pythonProject/mails.txt
